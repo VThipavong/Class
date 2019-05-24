@@ -1,0 +1,25 @@
+html {
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    border: 3px solid rgb(217, 255, 0);
+    border-radius: 70px;
+    display: inline-block;
+}
+
+a {
+    padding: 15px;
+    border: 3px solid rgb(77, 0, 128);
+    border-radius: 70px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: rgb(199, 255, 192);
+}
