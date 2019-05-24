@@ -1,0 +1,27 @@
+div {
+    width: 250px;
+    height: 90px;
+    margin: 1em;
+    background-color: orange;
+    border: 2px solid red;
+    flex-grow: 1;
+
+}
+ header {
+    display: flex;
+    border: 1px solid red;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.Flex1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.Flex2 {
+    flex-grow: 2;
+    flex-shrink: 8; 
+}
+
+body {
+    border: 2px solid red;
+}
