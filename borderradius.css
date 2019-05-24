@@ -1,0 +1,23 @@
+div {
+    width: 175px;
+    height: 100px;
+    boder: 10px solid blue;
+    border-radius: 46%;
+    display: inline-block;
+
+}
+.lemon1{
+    background-color: pink;
+}
+.lemon2{
+    background-color: yellow;
+}
+.lemon3{
+    background-color: green;
+}
+.lemon4{
+    background-color: cyan;
+}
+.lemon5{
+    background-color: orange;
+}
