@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+
+}
+
+li:first-child {
+    color: purple;
+
+}
+
+li:last-child {
+    background-color: Green;
+
+}
+
+li:nth-child(even) {
+    color: pink; 
+    font-size: 24px;
+
+}
+li:nth-child(odd) {
+    background-color: cyan; 
+    font-   size: 36px
+
+}
+
+li:nth-child(2) {
+    color:orange; 
+    font-size: 20px
+}
+article:only-child {
+    color:red;
+    background-color: yellow;
+    
+}
+
+li:nth-child(4n+3) {
+        color:yellow;
+        font-size: 18px;
+}
