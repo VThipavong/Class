@@ -1,2 +1,2 @@
 # Class
-for learning code
+This is for all the assignments for this class
