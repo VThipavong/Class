@@ -1,0 +1,25 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-block: blueviolet;
+    background-color: rgb(12, 83, 177);
+    border: 10px solid rgb(126, 179, 28);
+}
+h1{
+    font-size: 36pt;
+    font-color: red;
+    background-color: blueviolet;
+}
+
+h2 {
+    font-size: 36pt;
+    font-color: orange;
+    background-color: blueviolet;
+}
+div p {
+    background-color: blueviolet;
+}
