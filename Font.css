@@ -1,0 +1,33 @@
+body {
+    font-size: 1rem;
+
+}
+#Mewtwo {
+    font-family: serif;
+    font-size: 3rem;
+    font-style: oblique;
+    font-weight: 900;
+    text-shadow: 10px 10px 15px blue;  
+}
+
+#Thanos {
+    font-family: 'cute font', sans-serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-style: italic;
+    text-indent: 3rem;
+}
+.Speaker {
+    font-size: 1rem;
+    font-style: Bold;
+    font-weight: 1000;
+    letter-spacing: 1rem;
+}
+a {
+    text-decoration: none;
+
+}
+a:hover {
+    text-decoration: underline;
+    color: green;
+}
