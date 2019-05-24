@@ -1,0 +1,20 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 24px;
+}
+
+p {
+    margin: 27px;
+
+}
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 40px;
+    line-height: .75;
+}
+p::first-line {
+    color: blue;
+    font-weight: 900;
+}
