@@ -1,0 +1,20 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    border: 10px solid pink;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color: red
+}
+
+a:hover {
+    color: green
+}
+a:active {
+    color:purple
+}
